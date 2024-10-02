@@ -1,1 +1,1 @@
-# Password-Complexity-Checker
+A Python GUI application that evaluates the strength of user-entered passwords, providing feedback and suggestions based on criteria such as length, uppercase and lowercase letters, digits, and special characters to help users create more secure passwords.
